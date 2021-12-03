@@ -3,4 +3,4 @@ To run the bash files do
 ```
 program < input
 ```
-in a bash terminal, and make sure input files end in a new line
+Bash files before day 3 need to be ended in a new line
